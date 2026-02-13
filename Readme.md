@@ -46,3 +46,13 @@ This repository is for **Cyber-Men** – people who want to use their cybersecur
 
 **Contact:** uhitonetwork@gmail.com  
 **Copyright © 2026 Uhito Network. All rights reserved.**
+
+
+---
+## 🔁 Uhito Network Lifecycle
+
+This repository is **Step 4: Volunteer** – serving communities and building portfolios.
+
+🔍 [Research](https://github.com/UhitoNetwork/Uhito-Network-Research) → 📖 [Study](https://github.com/UhitoNetwork/Uhito-Network-Study) → ⚠️ [Awareness](https://github.com/UhitoNetwork/Uhito-Network-Cyber-Man-Awareness) → 🤝 **[Volunteer](https://github.com/UhitoNetwork/Uhito-Network-Cyber-Man-Volunteer)**
+
+See the full cycle that turns research into real‑world help.

@@ -1,110 +1,34 @@
-<!-- 
-COPYRIGHT © 2026 UHITO NETWORK
-Cyber-Man Volunteer Framework
+# UHITO NETWORK VOLUNTEER REPOSITORY LICENSE
+## Cyber-Man Program Materials
 
-PROTECTED CONTENT:
-- Volunteer safety protocols
-- Legal risk management systems
-- Community protection methodologies
-- Training and certification pathways
+### COPYRIGHT NOTICE
+© 2026 Uhito Network. All rights reserved.
 
-PERMISSIONS:
-- Individual volunteer use only
-- No reproduction, redistribution, or derivation
-- No organizational/commercial use without permission
-- No modification of safety warnings
+### OVERVIEW
+This repository contains guidance, templates, and materials for volunteers in the Cyber-Man Program. The content is shared freely for personal use by volunteers, but remains the intellectual property of Uhito Network.
 
-VIOLATIONS: DMCA + Legal Action
--->
+### PERMITTED USES
+You may:
+1. **Read and Use** – Use these materials to guide your volunteer work
+2. **Print for Personal Reference** – Keep copies for your own use
+3. **Share the Repository Link** – Direct others to this repository
+4. **Translate for Personal Use** – Translate content to your language (keep attribution)
 
-# UHITO NETWORK CYBER-MAN VOLUNTEER LICENSE
+### STRICTLY PROHIBITED
+You may NOT:
+1. **Sell This Content** – Do not charge money for access
+2. **Remove Attribution** – Do not claim you wrote this
+3. **Modify and Republish** – Do not alter and post elsewhere as your own
+4. **Use for Commercial Training** – Companies must ask permission before using in paid courses
 
-## OVERVIEW
-This repository contains the Cyber-Man Volunteer Framework - safety protocols, legal guidelines, and community protection methodologies developed by Uhito Network.
+### ATTRIBUTION
+If you share or translate, include:
+- Source: Uhito Network Volunteer Repository – Cyber-Man Program
+- Contact: uhitonetwork@gmail.com
 
-## ⚠️ **CRITICAL WARNING**
-These materials involve **serious legal risks**. Misuse or improper implementation can lead to criminal charges, lawsuits, or physical harm.
-
-## ✅ **PERMITTED USES**
-
-### Individuals May:
-1. **Read & Learn** – For personal volunteer preparation
-2. **Personal Implementation** – Apply to your own volunteer activities
-3. **Internal Reference** – Use while volunteering for Uhito Network
-4. **Safety Education** – Learn risk management for community work
-
-### Organizations Must:
-**Request written permission** before any use.
-
-## 🚫 **STRICTLY PROHIBITED**
-
-### You May NOT:
-1. **Redistribute** – Share copies outside Uhito Network
-2. **Modify** – Alter safety warnings or legal disclaimers
-3. **Commercialize** – Use in paid training, courses, or consulting
-4. **Organizational Adoption** – Implement in other volunteer groups
-5. **Derivative Works** – Create modified versions
-6. **AI Training** – Use to train machine learning models
-7. **Public Posting** – Share on other platforms/websites
-
-## 🔒 **SECURITY REQUIREMENTS**
-
-### Mandatory:
-1. **Anonymity Protection** – Never identify volunteers publicly
-2. **Risk Acknowledgment** – Users must confirm understanding dangers
-3. **Legal Compliance** – Follow all local cybersecurity laws
-4. **Safety First** – Never bypass safety protocols
-
-## 📝 **ATTRIBUTION REQUIREMENTS**
-When referencing (with permission):
-- **Source**: Uhito Network Cyber-Man Volunteer Framework
-- **License**: Uhito Network Restricted Volunteer License
-- **Warning**: "Contains sensitive safety protocols - do not share"
-
-## ⚖️ **ENFORCEMENT**
-Violations will result in:
-1. **Immediate** – Cease and desist notices
-2. **Legal** – DMCA takedowns and lawsuits
-3. **Criminal** – Reports to authorities for dangerous misuse
-4. **Permanent** – Ban from all Uhito Network resources
-
-## 🤝 **PERMISSION REQUESTS**
-For organizational use, adaptations, or special circumstances:
-
-**Email**: Uhitonetwork@gmail.com  
-**Subject**: "Volunteer Framework Permission Request"
-
-**Required Information**:
-- Organization name and purpose
-- Intended use case
-- Safety measures in place
-- Legal compliance plan
-- Contact person with credentials
-
-## 🆘 **EMERGENCY CONTACT**
-If you see dangerous misuse endangering people:
-
-**Immediate Email**: Uhitonetwork@gmail.com (mark URGENT)  
-**Discord**: https://discord.gg/2JFSJgkQ (message @admin)
+### ENFORCEMENT
+Violations may result in DMCA takedowns and legal action.
 
 ---
 
-## 📋 **USER ACKNOWLEDGMENT**
-
-By accessing this repository, you confirm:
-
-1. ✅ I understand these materials involve legal risks
-2. ✅ I will not share with unauthorized persons
-3. ✅ I will not modify safety warnings
-4. ✅ I accept personal responsibility for my use
-5. ✅ I will report dangerous misuse immediately
-
----
-
-*Copyright © 2026 Uhito Network. All rights reserved.*  
-*Project: Uhito Network Cyber-Man Volunteer Framework*  
-*Protection Level: HIGH - Contains Safety-Critical Protocols*
-
-**Contact**: Uhitonetwork@gmail.com  
-**Community**: https://discord.gg/2JFSJgkQ  
-**Response**: 24-72 hours for permission requests
+*Copyright © 2026 Uhito Network. All rights reserved.*

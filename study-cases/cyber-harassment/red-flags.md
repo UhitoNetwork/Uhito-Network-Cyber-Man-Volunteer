@@ -63,3 +63,10 @@ If you see these signs:
 📞 **Suicide Hotline: 988** (US)  
 🌐 Find your local number worldwide  
 👮 **Cyber Crime Reporting:** Check your country's cyber police contact
+
+
+## 📖 Navigate Case Study
+
+| ⬅️ Previous | 📍 Current | ➡️ Next |
+|-------------|------------|---------|
+| [story.md](story.md) | **red-flags.md** | [prevention-tips.md](prevention-tips.md) |

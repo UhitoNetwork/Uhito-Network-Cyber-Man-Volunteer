@@ -85,3 +85,9 @@ He carries that girl in his memory. Every case, every threat, every criminal —
 ---
 
 *⚠️ This is an unreal story. It is made to show the bad scenarios that can happen in real life. If you see something, report it to authorities. Time matters.*
+
+## 🔗 Next Steps
+
+- 📘 Next Case Study: [Ransomware Attack on Hospital]()  
+- 🛡️ More Prevention Tips: [Cyber Man Guide]()  
+- 👥 Join Discussion: [Volunteer Chat]()

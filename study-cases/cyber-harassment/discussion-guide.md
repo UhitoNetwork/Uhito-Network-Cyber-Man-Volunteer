@@ -109,4 +109,10 @@ As a team, create ONE simple message about this story that you could share:
 Example:
 > *"In one story, a girl died because she was too scared to tell anyone about online threats. Don't let that be you. If someone makes you scared online, tell a trusted adult. You are not alone."*
 
-Write your team's message here:
+
+
+## 📖 Navigate Case Study
+
+| ⬅️ Previous | 📍 Current | ➡️ Next |
+|-------------|------------|---------|
+| [prevention-tips.md](prevention-tips.md) | **discussion-guide.md** | [Join Discussion](https://github.com/UhitoNetwork/Uhito-Network-Cyber-Man-Volunteer/discussions/17) |

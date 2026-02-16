@@ -159,3 +159,10 @@ After helping someone:
 **🦸 For Cyber Men of Uhito Network**
 
 *Share this. Use this. Be the bridge.* 🤝
+
+
+## 📖 Navigate Case Study
+
+| ⬅️ Previous | 📍 Current | ➡️ Next |
+|-------------|------------|---------|
+| [red-flags.md](red-flags.md) | **prevention-tips.md** | [discussion-guide.md](discussion-guide.md) |
